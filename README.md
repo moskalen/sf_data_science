@@ -1,2 +1,6 @@
-# sf_data_science
-SF homework
+# My data science projects
+From the [SkillFactory Data science course](https://skillfactory.ru/data-scientist-pro)
+
+## Projects
+
+* [Project 0. Guess a number game](https://github.com/moskalen/sf_data_science/tree/master/project0)
