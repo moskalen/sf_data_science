@@ -1,0 +1,4 @@
+*.zip
+*.csv
+catboost_info
+model_and_encoders.pkl
