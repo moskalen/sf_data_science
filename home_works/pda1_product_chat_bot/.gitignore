@@ -1,0 +1,6 @@
+*.zip
+*.csv
+*.txt
+w2v_model*
+*.ann
+*.pkl
