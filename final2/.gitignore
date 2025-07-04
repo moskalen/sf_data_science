@@ -1,4 +1,8 @@
 *.zip
 *.csv
+*.pkl
+*.npz
 catboost_info
 model_and_encoders.pkl
+.venv
+.vscode
